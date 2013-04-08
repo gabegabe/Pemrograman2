@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite failures="0" time="0.016" errors="0" skipped="0" tests="1" name="belajar.autotes.AppTest">
+<testsuite failures="0" time="0.014" errors="0" skipped="0" tests="1" name="belajar.autotes.AppTest">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.7.0\jre\bin"/>
@@ -16,7 +16,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value=""/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="D:\Gabe\Campus\Pancasila\Pemrograman 2\Praktikum\belajar-autotes"/>
+    <property name="user.dir" value="D:\Gabe\Campus\Pancasila\Pemrograman 2\Praktikum\sesi2\belajar-autotes"/>
     <property name="java.runtime.version" value="1.7.0-b147"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
     <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.7.0\jre\lib\endorsed"/>
@@ -29,7 +29,7 @@
     <property name="os.name" value="Windows 7"/>
     <property name="classworlds.conf" value="C:\Program Files\apache-maven-3.0.4\bin\..\bin\m2.conf"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk1.7.0\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;D:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files\apache-maven-3.0.4\bin;C:\mongodb-win32-i386-2.2.2\mongodb-win32-i386-2.2.2\bin;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files\Java\jre1.7.0\bin;C:\Program Files\Java\jre1.7.0\lib\ext\mysql-connector-java-5.1.22-bin.jar;C:\Program Files\Java\jre1.7.0\lib;C:\Program Files\Java\jdk1.7.0\bin;C:\Program Files\apache-maven-3.0.4\bin;;."/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.7.0\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;D:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files\apache-maven-3.0.4\bin;C:\mongodb-win32-i386-2.2.2\mongodb-win32-i386-2.2.2\bin;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files\Java\jre1.7.0\bin;C:\Program Files\Java\jre1.7.0\lib\ext\mysql-connector-java-5.1.22-bin.jar;C:\Program Files\Java\jre1.7.0\lib;C:\Program Files\Java\jdk1.7.0\bin;C:\Program Files\apache-maven-3.0.4\bin;;C:\Program Files\Common Files\Nero\Lib\;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="51.0"/>
     <property name="sun.management.compiler" value="HotSpot Client Compiler"/>
