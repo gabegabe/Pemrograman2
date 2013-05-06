@@ -4,7 +4,7 @@
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="D:\Program Files\Java\jdk1.7.0_07\jre\bin"/>
     <property name="java.vm.version" value="23.3-b01"/>
-    <property name="exec.mainClass" value="com.p2.hashset.BelajarSortedMap"/>
+    <property name="exec.mainClass" value="com.p2.hashset.ListProduk"/>
     <property name="user.country.format" value="ID"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
@@ -45,7 +45,7 @@
     <property name="java.vm.specification.version" value="1.7"/>
     <property name="sun.arch.data.model" value="32"/>
     <property name="java.home" value="D:\Program Files\Java\jdk1.7.0_07\jre"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean package exec:java -Dexec.mainClass=com.p2.hashset.BelajarSortedMap"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean package exec:java -Dexec.mainClass=com.p2.hashset.ListProduk"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="user.language" value="en"/>
     <property name="user.language.format" value="id"/>
